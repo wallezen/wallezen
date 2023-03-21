@@ -9,6 +9,8 @@ I am wallezen, a tech enthusiast & an open-source advocate. Always open to colla
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wallezen&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallezen&hide=TeX&layout=compact)
