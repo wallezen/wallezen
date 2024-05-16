@@ -8,7 +8,7 @@ I am wallezen, a tech enthusiast & an open-source advocate. Always open to colla
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
